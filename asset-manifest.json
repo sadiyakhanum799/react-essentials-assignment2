@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/react-essentials-assignment2/static/css/main.ca42f42a.css",
-    "main.js": "/react-essentials-assignment2/static/js/main.6e0d205e.js",
+    "main.js": "/react-essentials-assignment2/static/js/main.3fa147a0.js",
     "static/js/453.79004670.chunk.js": "/react-essentials-assignment2/static/js/453.79004670.chunk.js",
+    "static/media/boots3.jpg": "/react-essentials-assignment2/static/media/boots3.581700a8bc17b9c8e8fd.jpg",
+    "static/media/boots2.jpg": "/react-essentials-assignment2/static/media/boots2.50fe92b86c021ab1f92b.jpg",
+    "static/media/boots1.jpg": "/react-essentials-assignment2/static/media/boots1.8e27e20dfc5ddcde93d4.jpg",
     "index.html": "/react-essentials-assignment2/index.html",
     "main.ca42f42a.css.map": "/react-essentials-assignment2/static/css/main.ca42f42a.css.map",
-    "main.6e0d205e.js.map": "/react-essentials-assignment2/static/js/main.6e0d205e.js.map",
+    "main.3fa147a0.js.map": "/react-essentials-assignment2/static/js/main.3fa147a0.js.map",
     "453.79004670.chunk.js.map": "/react-essentials-assignment2/static/js/453.79004670.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca42f42a.css",
-    "static/js/main.6e0d205e.js"
+    "static/js/main.3fa147a0.js"
   ]
 }
